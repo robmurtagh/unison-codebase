@@ -11,3 +11,4 @@ push.create https://github.com/robmurtagh/unison-codebase:.graphql
 ## Other notes
 
 * `?a` indicates the [character literal](https://www.unisonweb.org/docs/language-reference/#literals) `a`
+* Prefix `'` indicates a thunk, prefix `!` forces the thunk
