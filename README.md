@@ -2,7 +2,7 @@
 
 This is my personal 'remote' for code I write in the programming language [Unison](https://www.unisonweb.org/)
 
-### 🚀 Using this codebase
+## 🚀 Using this codebase
 
 Using `ucm`, [the Unison Codebase Manager](https://www.unison-lang.org/learn/install-instructions/):
 
@@ -24,13 +24,13 @@ push https://github.com/robmurtagh/unison-codebase:.graphql graphql
 pull https://github.com/robmurtagh/unison-codebase:.graphql graphql
 ```
 
-### 🏗 What I'm working on
+## 🏗 What I'm working on
 
 Currently, I'm working on a GraphQL parser written in Unison:
 
 ![graphql-parser](/assets/graphql-parser.png)
 
-### 📝 Other notes
+## 📝 Other notes
 
 * `?a` indicates the character literal `a` ([docs](https://www.unison-lang.org/learn/language-reference/literals/))
 * Prefix `'` indicates a thunk, prefix `!` forces the thunk ([docs](https://www.unison-lang.org/learn/language-reference/delayed-computations/))
