@@ -9,19 +9,19 @@ Using `ucm`, [the Unison Codebase Manager](https://www.unison-lang.org/learn/ins
 * Initial push:
 
 ```sh
-push.create https://github.com/robmurtagh/unison-codebase:.graphql
+push.create https://github.com/robmurtagh/unison-codebase:.graphql .graphql
 ```
 
 * Subsquent pushes (to `graphql` namespace):
 
 ```sh
-push https://github.com/robmurtagh/unison-codebase:.graphql graphql
+push https://github.com/robmurtagh/unison-codebase:.graphql .graphql
 ```
 
 * Pulling (from `graphql` namespace):
 
 ```sh
-pull https://github.com/robmurtagh/unison-codebase:.graphql graphql
+pull https://github.com/robmurtagh/unison-codebase:.graphql .graphql
 ```
 
 ## 🏗 What I'm working on
